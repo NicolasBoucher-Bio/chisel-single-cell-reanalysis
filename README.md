@@ -12,7 +12,7 @@ I reanalysed processed data from patient S0, tumour section E.
 To what extent can simple PCA and hierarchical clustering of copy-number profiles reproduce the tumour clone structure reported by CHISEL?
 
 ## Data 
-The analysis used publicly available processed CHISEL outputs from patient S0, tumour section E. This data was obtained from the CHISEL data repository:
+The analysis used publicly available processed CHISEL outputs from patient S0, tumour section E. The data were obtained from the CHISEL data repository:
 
 https://github.com/raphael-group/chisel-data
 
@@ -22,12 +22,12 @@ The dataset contained 2,075 cells. 1,448 of these had published assignments to s
 Total copy number was calculated from the two haplotype-specific copy numbers for each genomic region.
 
 The analysis included:
--Genome-wide copy-number visualisation
--PCA of total copy number
--Ward hierarchical clustering
--Comparison with published clone assignments using adjusted Rand index
--PCA and clustering using allele-specific copy numbers
--Robustness analysis using 100 stratified random subsamples containing 80% of cells from each published clone.
+- Genome-wide copy-number visualisation
+- PCA of total copy number
+- Ward hierarchical clustering
+- Comparison with published clone assignments using adjusted Rand index
+- PCA and clustering using allele-specific copy numbers
+- Robustness analysis using 100 stratified random subsamples containing 80% of cells from each published clone.
 
 ## Results
 Simple total-copy-number analysis recovered substantial structure consistent with the published CHISEL clone assignments.
