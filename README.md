@@ -39,10 +39,10 @@ Some clones were recovered particularly clearly, including Clone5 and Clone63. H
 Retaining allele-specific copy numbers revealed additional separation between Clone156 and Clone172 in PCA. On the complete dataset, however, allele-specific clustering showed almost identical agreement with the published CHISEL assignments (ARI = 0.791).
 
 Across 100 stratified 80% cell subsamples:
--Total-copy-number clustering had a median ARI of 0.676, with a 95% resampling interval of 0.569-0.816.
--Allele-specific clustering had a median ARI of 0.714, with a 95% resampling interval of 0.640-0.816.
--The paired median difference in ARI was 0.008, with a 95% resampling interval of -0.129 to 0.180.
--Allele-specific clustering achieved a higher ARI in 53% of subsamples.
+- Total-copy-number clustering had a median ARI of 0.676, with a 95% resampling interval of 0.569-0.816.
+- Allele-specific clustering had a median ARI of 0.714, with a 95% resampling interval of 0.640-0.816.
+- The paired median difference in ARI was 0.008, with a 95% resampling interval of -0.129 to 0.180.
+- Allele-specific clustering achieved a higher ARI in 53% of subsamples.
 
 These results suggest that allele-specific information reveals additional genomic structure. However, it does not consistently improve recovery of published clone assignments under simple Ward hierarchical clustering.
 
