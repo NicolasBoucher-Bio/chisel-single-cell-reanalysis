@@ -28,7 +28,7 @@ The analysis included:
 -Robustness analysis using 100 stratified random subsamples containing 80% of cells from each published clone.
 
 ## Results
-Simple total-copy-number analysis recovered substantial published clone structure.
+Simple total-copy-number analysis recovered substantial structure consistent with the published CHISEL clone assignments.
 
 The first two total-copy-number principal components explained 91.9% and 3.7% of variance, respectively.
 
