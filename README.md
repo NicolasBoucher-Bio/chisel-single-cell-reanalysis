@@ -54,7 +54,7 @@ These results suggest that allele-specific information reveals additional genomi
 ![Copy-number alteration burden](figures/figure2_diploid_reference_burden.png)
 
 ### Figure 3 - Total vs allele-specific PCA
-![PCA comparison](figures/figure3_pca_comparison.ong)
+![PCA comparison](figures/figure3_pca_comparison.png)
 
 ### Figure 4 - Clustering robustness
 ![Clustering robustness](figures/figure4_clustering_robustness.png)
